@@ -1,6 +1,6 @@
 def main():
     print('my first program')
-    print('ok')
+    print('o')
 
 
 if __name__ == '__main__':
